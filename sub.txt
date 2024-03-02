@@ -1,1 +1,4 @@
-Lakshmi
+lst=[2,3,4,9]
+insert=80
+lst.insert(3,insert)
+print(lst)
