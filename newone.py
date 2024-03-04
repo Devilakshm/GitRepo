@@ -3,4 +3,4 @@ for i in lst:
   if i%2==0
   print(i)
   print("merge conflits for git commands")
-  print(lakshmi)
+  print(lakshmipadma)
