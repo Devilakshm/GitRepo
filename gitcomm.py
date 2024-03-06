@@ -1,5 +1,4 @@
-l=[4,3,24,7]
+  l=[4,3,24,7]
 for i in l:
-  if i%6==0:
+  if i==4:
     print(i)
-print("hi")
