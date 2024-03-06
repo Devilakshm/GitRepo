@@ -1,5 +1,5 @@
-a=9876
-b=23876
-print(a-b)
-print(a+b)
+l=[2,3,4,5,4,6,7]
+unique_v =set(l)
+for value in unique_v:
+    print(value)
 
