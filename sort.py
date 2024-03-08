@@ -1,0 +1,15 @@
+d={1:'a',2:[10,20,30]}
+print(d[1])
+x=d[1]
+print(x)
+x='b'
+print(d[1])
+print(x)
+#sorting
+d={1:'a',2:[10,20,30]}
+print(d[2])
+lst=d[2]
+print(lst)
+lst.append(66)
+print(d[2])
+print(lst)
